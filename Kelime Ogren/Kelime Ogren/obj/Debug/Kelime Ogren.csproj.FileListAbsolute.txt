@@ -1,0 +1,13 @@
+D:\Kelime Ogren\Kelime Ogren\bin\Debug\Kelime Ogren.exe.config
+D:\Kelime Ogren\Kelime Ogren\bin\Debug\Kelime Ogren.exe
+D:\Kelime Ogren\Kelime Ogren\bin\Debug\Kelime Ogren.pdb
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.AssemblyReference.cache
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.SuggestedBindingRedirects.cache
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime_Ogren.Form1.resources
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime_Ogren.Properties.Resources.resources
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.GenerateResource.cache
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.CoreCompileInputs.cache
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.exe
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.pdb
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime_Ogren.FrmGiris.resources
+D:\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime_Ogren.FrmIstatistik.resources
